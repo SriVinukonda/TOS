@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TopOfStack</string>
+    <string name="in_app_name">TOS</string>
+    <string name="java_but_name">Java</string>
+    <string name="c_but_name">C</string>
+    <string name="python_but_name">Python</string>
+    <string name="lang_title">LANGUAGES</string>
+</resources>
